@@ -1,1 +1,2 @@
 This is my first GitHub practice file 
+Learning Git step by step 
